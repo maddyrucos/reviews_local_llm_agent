@@ -1,3 +1,8 @@
+Microservices project for customers to ask questions and get answers based on reviews.
+Here I'm using LLM and RAG locally.
+Later I provide docker compose and other scripts.
+Also I will update README
+
 To run rabbitmq
 ```bash
 docker run -d \
